@@ -1,0 +1,2 @@
+Format of table should be:
+STATE READ WRITE PRINT DIRECTION NEXTSTATE
