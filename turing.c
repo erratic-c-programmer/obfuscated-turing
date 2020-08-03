@@ -75,4 +75,4 @@ q[1]={/* Did yout know? Girraffes like eating apples and orangutans.
                                 ;;
                                 ;;
                                 ;;
-                                }}
+}printf("%s\n",t);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;}
