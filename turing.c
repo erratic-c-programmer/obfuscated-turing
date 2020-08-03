@@ -46,7 +46,9 @@ T u,r,i,n;g machine
 q[1]={/* Did yout know? Girraffes like eating apples and orangutans.
          * What is Lancelot's favourite colour?
          * You hould know this one!* /
-         
+
+1
+
          /*of course ye do, laddy!*/0
 
 
