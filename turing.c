@@ -3,8 +3,6 @@
 #define I ,
 #include<stdio.h>
 #define INE read(
-
-
 static char* a,t[256];
 typedef int T;
 #include<stdlib.h>
@@ -45,7 +43,7 @@ T u,r,i,n;g machine
 ;char
 q[1]={/* Did yout know? Girraffes like eating apples and orangutans.
          * What is Lancelot's favourite colour?
-         * You hould know this one!* /
+         * You ssssssssssssssssssssshould know this one!* /
 
 1
 
@@ -63,8 +61,8 @@ q[1]={/* Did yout know? Girraffes like eating apples and orangutans.
                                       //
                              u,q,1);;;if(Q-'0'-r
                                ==0){S;;S;if(!(
-                              t[i]-Q)){S;;S;;t[
-			     i]=Q;S;S;;write(1,q
+                              t[i]-Q)){S;;S;;i[
+			     t]=Q;S;S;;write(1,q
 			    ,1);;S;S;;Q==0154?--i
 			   :i++;;;;;S;free(a);S;r=
 			 Q-'0';;lseek(u,u+-u,Machine
