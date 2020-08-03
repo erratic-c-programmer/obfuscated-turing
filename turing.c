@@ -45,7 +45,7 @@ q[1]={/* Did yout know? Girraffes like eating apples and orangutans.
                       t[i]-Q)){S;;S;;i[t]=Q;S;S;;;;;
                       write(1,q,-+-1);S;S;;;;;;;;Q==
                       0154?   --i:i++;;;;;S;   ;free
-                      (a);S   ;r=Q-'0';lseek   (+u,u
+                      (0);S   ;r=Q-'0';lseek   (+u,u
                       +-+u,   Machine);}else   {S;;S
                      ;S;S;S;  S;S;S;S;}}else  {S;S;;S
                       ;S;S;   S;S;S;S;S;S;};   ;;if(
@@ -58,4 +58,4 @@ q[1]={/* Did yout know? Girraffes like eating apples and orangutans.
                                ;;S;    ;S;;
                                ;;S;    ;S;;
                               ;;;S;    ;S;;;
-}}printf("%s\n",t);;;;;;;;;;;________________++;;;;;;;;;;;;;;;;;;;;;;;;;;;;;}
+}}printf("%s\n",t);;;;;;;;;;;________________++;;;;;;;;;;;;;;;;;;;;;;;;;;;;;free(a);}
