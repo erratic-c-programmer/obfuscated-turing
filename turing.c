@@ -19,13 +19,12 @@ T ________________;
 static
 T u,r,i,n;g machine
 
-(                  T h,char* /**/ *m                      )
+(                  T h,char* *m                      )
                            {
                          n=h=0
-                           ;
-                        strcpy
-                       (t,m[1])
-;char
+                        ;strcpy
+                       (t,*(1+m)
+);char
 q[1]={/* Did yout know? Girraffes like eating apples and orangutans.
          * What is Lancelot's favourite colour?
          * You ssssssssssssssssssssshould know this one!* /
@@ -52,11 +51,11 @@ q[1]={/* Did yout know? Girraffes like eating apples and orangutans.
                        ;S;S;   S;S;S;S;S;S;};   ;;if(
                         -+-    0x20-+'0'==+r)    {;;
                                break;;;;;;;;;
-                                ;;;;    ;;;;
-                                ;;;;    ;;;;
-                                ;;;;    ;;;;
-                                ;;;;    ;;;;
-                                ;;;;    ;;;;
-                                ;;;;    ;;;;
-                               ;;;;;    ;;;;;
-}printf("%s\n",t);;;;;;;;;;;;;________________++;;;;;;;;;;;;;;;;;;;;;;;;;;;;;}
+                                ;;S;    ;S;;
+                                ;;S;    ;S;;
+                                ;;S;    ;S;;
+                                ;;S;    ;S;;
+                                ;;S;    ;S;;
+                                ;;S;    ;S;;
+                               ;;;S;    ;S;;;
+}}printf("%s\n",t);;;;;;;;;;;;________________++;;;;;;;;;;;;;;;;;;;;;;;;;;;;;}
