@@ -40,8 +40,8 @@ q[1]={/* Did yout know? Girraffes like eating apples and orangutans.
                                  /******/
                                   /****/
                                     //
-                            u,q,1);;;if(Q-'0'
-                            -r==0){S;;S;if(!(
+                            u,q,1);if(Q-(0x30
+                            ^r)==0){S;S;if(!(
                       t[i]-Q)){S;;S;;i[t]=Q;S;S;;;;;
                       write(1,q,-+-1);S;S;;;;;;;;Q==
                       0154?   --i:i++;;;;;S;   ;free
