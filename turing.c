@@ -4,7 +4,7 @@
 #include<stdio.h>
 #define INE read(
 static char* a,t[256];
-typedef int T;
+int typedef T;
 #include<stdlib.h>
 #define g T
 #define S read(u  ,q,1)
